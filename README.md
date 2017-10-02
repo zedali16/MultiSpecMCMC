@@ -1,6 +1,12 @@
 # MultiSpecMCMC
-The code implement Adaptive Bayesian power spectrum analysis of multivariate nonstationary time series. Simuluated data are also avaiable in this repository.
 
-The demo code include: demo_abrupt_changing (for time-varying spectrum with abrupt changes) and demo_slow_varying (for time-varying spectrum with slow-varying changes).
+Author: Zeda Li
+
+Implements the procedure introduced in the paper
+Li, Z. and Krafty, R.T. "Adaptive Bayesian time--frequency analysis of multivariate time series analysis"
+
+Coduct a adaptive Bayesian spectrum analysis for multivariate nonstationary time series. 
+
+Please use DEMO.m as an illustration.
 
 
