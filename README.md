@@ -7,6 +7,6 @@ Li, Z. and Krafty, R.T. "Adaptive Bayesian time--frequency analysis of multivari
 
 Coduct a adaptive Bayesian spectrum analysis for multivariate nonstationary time series. 
 
-Please use DEMO.m as an illustration.
+Use DEMO.m as an illustration.
 
 
